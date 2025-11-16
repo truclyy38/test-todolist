@@ -1,0 +1,30 @@
+# Backend
+backend/TodoApi/bin/
+backend/TodoApi/obj/
+backend/TodoApi/*.user
+backend/TodoApi/*.suo
+backend/TodoApi/.vs/
+
+# Frontend
+frontend/todo-app/node_modules/
+frontend/todo-app/dist/
+frontend/todo-app/.angular/
+frontend/todo-app/npm-debug.log
+frontend/todo-app/yarn-error.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets
+backend/TodoApi/appsettings*.json
+frontend/todo-app/src/environments/environment*.ts
+sqlcommand-azure.md
+
